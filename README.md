@@ -1,1 +1,2 @@
-# ProductList_frontend
+run npm install
+npm start
